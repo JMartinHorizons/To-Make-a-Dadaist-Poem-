@@ -1,4 +1,4 @@
-# To Make a Dadaist Poem
+# To Make a Dadaist Poem Remix
 
 A simple text reassembler based on Tristan Tzara's "To Make a Dadaist Poem"
 
